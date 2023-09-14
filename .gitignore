@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ECom.Core/bin/Debug/net7.0
+/.vs/EComAPI
+/ECom.Core/obj
+/ECom.Domain/bin/Debug/net7.0
+/ECom.Domain/obj
+/EComAPI/bin/Debug/net7.0
+/EComAPI/obj
+/obj
